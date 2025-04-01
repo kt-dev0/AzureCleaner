@@ -1,0 +1,12 @@
+# requirements.txt for AzureCleaner CLI Scanner
+azure-identity>=1.15.0
+azure-mgmt-resource>=22.0.0
+azure-mgmt-network>=25.0.0
+azure-mgmt-compute>=29.1.0
+azure-mgmt-web>=6.2.0
+azure-mgmt-recoveryservices>=1.0.0
+azure-mgmt-recoveryservicesbackup>=6.0.0
+azure-mgmt-containerregistry>=10.0.0
+azure-mgmt-dns>=8.0.0
+azure-mgmt-subscription>=3.0.0
+azure-mgmt-consumption>=3.0.0
